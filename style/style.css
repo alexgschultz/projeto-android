@@ -44,6 +44,7 @@ header > h1 {
     font-family: var(--font-android);
     font-size: 3em;
     font-weight: normal;
+    width: 100%;
     margin-bottom: 10px;
     color: var(--cor00);
     text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.452);
@@ -63,7 +64,7 @@ nav {
 
 nav > a {
     color: var(--cor03);
-    font-size: 1.5em;
+    font-size: 1em;
     padding: 10px;
     border-radius: 5px 5px 0px 0px;
     text-decoration: none;
